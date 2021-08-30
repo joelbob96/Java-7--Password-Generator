@@ -1,0 +1,2 @@
+Main-Class: Project7
+Sealed: true
